@@ -1,0 +1,416 @@
+{
+  "pets": [
+    {
+      "id": "1",
+      "name": "Buddy",
+      "breed": "terrier",
+      "date_of_birth": "2015-07-12",
+      "desexed": true,
+      "gender": "Male",
+      "microchip_number": 7562934032,
+      "vaccinated": true,
+      "wormed": false,
+      "description": "This sweet pup is looking for a forever home where they will be cherished and cared for. They have the cutest habit of tilting their head when they're curious about something.",
+      "image_url": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_1550.jpg"
+    },
+    {
+      "id": "52e19163-ec0a-4598-b812-6e2db072a2f8",
+      "name": "Max",
+      "breed": "bulldog",
+      "date_of_birth": "2013-09-25",
+      "desexed": true,
+      "gender": "Male",
+      "microchip_number": 4758392106,
+      "vaccinated": true,
+      "wormed": false,
+      "description": "They desperately need a loving and responsible adoption to give them a second chance at happiness. They love to cuddle and will be your loyal companion for life.",
+      "image_url": "https://images.dog.ceo/breeds/bulldog-french/n02108915_12317.jpg"
+    },
+    {
+      "id": "af4f94c3-eeb2-4d7c-bf70-b07f5e70b72e",
+      "name": "Lucy",
+      "breed": "beagle",
+      "date_of_birth": "2016-11-03",
+      "desexed": true,
+      "gender": "Female",
+      "microchip_number": 3194675823,
+      "vaccinated": false,
+      "wormed": true,
+      "description": "Lucy is full of love and affection. They just need someone to give them the love and care they deserve. This dog has a goofy personality that will keep you entertained for hours.",
+      "image_url": "https://images.dog.ceo/breeds/beagle/n02088364_129.jpg"
+    },
+    {
+      "id": "7e163c08-08b7-4b12-a9ec-aa74cf038a29",
+      "name": "Bailey",
+      "breed": "poodle",
+      "date_of_birth": "2012-05-18",
+      "desexed": false,
+      "gender": "Female",
+      "microchip_number": 6830274511,
+      "vaccinated": true,
+      "wormed": true,
+      "description": "They desperately need a loving and responsible adoption to give them a second chance at happiness. They love to cuddle and will be your loyal companion for life.",
+      "image_url": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_9278.jpg"
+    },
+    {
+      "id": "94796e85-44ff-4e53-ba57-07fbc1bc8b1d",
+      "name": "Daisy",
+      "breed": "labrador",
+      "date_of_birth": "2017-02-10",
+      "desexed": false,
+      "gender": "Female",
+      "microchip_number": 5218346098,
+      "vaccinated": true,
+      "wormed": true,
+      "description": "This sweet pup is looking for a forever home where they will be cherished and cared for. They love to cuddle and will be your loyal companion for life.",
+      "image_url": "https://images.dog.ceo/breeds/labrador/n02099712_7406.jpg"
+    },
+    {
+      "id": "b018cf60-4b60-4a25-817a-7c4c12682c3f",
+      "name": "Rocky",
+      "breed": "boxer",
+      "date_of_birth": "2014-12-01",
+      "desexed": false,
+      "gender": "Male",
+      "microchip_number": 8067359247,
+      "vaccinated": false,
+      "wormed": false,
+      "description": "They desperately need a loving and responsible adoption to give them a second chance at happiness. They have the cutest habit of tilting their head when they're curious about something.",
+      "image_url": "https://images.dog.ceo/breeds/boxer/n02108089_8969.jpg"
+    },
+    {
+      "id": "8ee19ae3-d39e-41ec-aee7-7a2d495e83f0",
+      "name": "Molly",
+      "breed": "husky",
+      "date_of_birth": "2019-08-29",
+      "desexed": true,
+      "gender": "Female",
+      "microchip_number": 9705231865,
+      "vaccinated": false,
+      "wormed": false,
+      "description": "Molly needs a loving and responsible adoption to give them a second chance at happiness. They have the cutest habit of tilting their head when they're curious about something.",
+      "image_url": "https://images.dog.ceo/breeds/husky/n02110185_698.jpg"
+    },
+    {
+      "id": "e64f01fc-3c2e-4b14-a147-2a0e61e2f3d9",
+      "name": "Jake",
+      "breed": "dachshund",
+      "date_of_birth": "2018-06-14",
+      "desexed": true,
+      "gender": "Male",
+      "microchip_number": 2468135790,
+      "vaccinated": false,
+      "wormed": true,
+      "description": "Jake is full of love and affection. They just need someone to give them the love and care they deserve. They have the cutest habit of tilting their head when they're curious about something.",
+      "image_url": "https://images.dog.ceo/breeds/dachshund/dachshund_4.jpg"
+    },
+    {
+      "id": "0f1a2561-9d30-45da-8d0f-02a5d06f76a1",
+      "name": "Sadie",
+      "breed": "pomeranian",
+      "date_of_birth": "2020-10-08",
+      "desexed": false,
+      "gender": "Female",
+      "microchip_number": 9051738246,
+      "vaccinated": true,
+      "wormed": true,
+      "description": "This sweet pup is looking for a forever home where they will be cherished and cared for. They love to cuddle and will be your loyal companion for life. This dog has a goofy personality that will keep you entertained for hours.",
+      "image_url": "https://images.dog.ceo/breeds/pomeranian/n02112018_5330.jpg"
+    },
+    {
+      "id": "adcc43bb-0b7e-4b02-bb46-30bcbf2d02df",
+      "name": "Rosie",
+      "breed": "shih tzu",
+      "date_of_birth": "2019-03-15",
+      "desexed": true,
+      "gender": "Female",
+      "microchip_number": 6419283570,
+      "vaccinated": true,
+      "wormed": true,
+      "description": "Despite their rough start in life, this dog is full of love and affection. They just need someone to give them the love and care they deserve. They have the cutest habit of tilting their head when they're curious about something.",
+      "image_url": "https://images.dog.ceo/breeds/shihtzu/n02086240_9467.jpg"
+    },
+    {
+      "id": "aef8a0fc-1d6c-44f5-9884-497dc50aa670",
+      "name": "Whiskers",
+      "breed": "Domestic Shorthair",
+      "date_of_birth": "2019-05-10",
+      "desexed": true,
+      "gender": "Male",
+      "microchip_number": 1234567890,
+      "vaccinated": true,
+      "wormed": false,
+      "description": "Whiskers was found as a stray kitten wandering the streets alone. Despite his rough start, he has blossomed into a playful and affectionate cat. He loves chasing after toys and curling up in warm spots for naps.",
+      "image_url": "https://cdn2.thecatapi.com/images/d35.jpg"
+    },
+    {
+      "id": "83ff7389-0b2a-48b6-98d4-b399b64ed4c5",
+      "name": "Mittens",
+      "breed": "Maine Coon",
+      "date_of_birth": "2018-08-15",
+      "desexed": true,
+      "gender": "Female",
+      "microchip_number": 2345678901,
+      "vaccinated": true,
+      "wormed": true,
+      "description": "Mittens was rescued from a shelter where she was abandoned by her previous owners. Despite her initial shyness, she's incredibly gentle and loves cuddling up on laps. Her fluffy fur and striking green eyes make her irresistible.",
+      "image_url": "https://cdn2.thecatapi.com/images/fe.jpg"
+    },
+    {
+      "id": "a9b1b3af-27a7-4fc7-b7d2-90e7b106e325",
+      "name": "Smokey",
+      "breed": "British Shorthair",
+      "date_of_birth": "2020-02-28",
+      "desexed": false,
+      "gender": "Male",
+      "microchip_number": 3456789012,
+      "vaccinated": false,
+      "wormed": true,
+      "description": "Smokey was found abandoned in a cardboard box outside a vet clinic. Despite his tough exterior, he's a big softie at heart. He enjoys lounging in sunbeams and receiving chin scratches.",
+      "image_url": "https://cdn2.thecatapi.com/images/kcDyctLTZ.jpg"
+    },
+    {
+      "id": "ec83754d-c2d8-4d9d-a48c-2cfcbf1fc7d5",
+      "name": "Luna",
+      "breed": "Siamese",
+      "date_of_birth": "2017-11-20",
+      "desexed": true,
+      "gender": "Female",
+      "microchip_number": 4567890123,
+      "vaccinated": true,
+      "wormed": false,
+      "description": "Luna was found abandoned in a park, meowing loudly for help. She's incredibly vocal and loves engaging in conversations with her human companions. Luna is also very affectionate and enjoys curling up in bed with her favorite humans.",
+      "image_url": "https://cdn2.thecatapi.com/images/2es.jpg"
+    },
+    {
+      "id": "be802b9d-7d1e-44c2-a39d-4f1b9a1243a2",
+      "name": "Oreo",
+      "breed": "Domestic Longhair",
+      "date_of_birth": "2019-04-05",
+      "desexed": true,
+      "gender": "Male",
+      "microchip_number": 5678901234,
+      "vaccinated": true,
+      "wormed": true,
+      "description": "Oreo was found abandoned in a box outside a grocery store. He's a playful and mischievous cat who loves exploring every nook and cranny of his home. Oreo's favorite pastime is chasing after feather toys.",
+      "image_url": "https://cdn2.thecatapi.com/images/c2s.jpg"
+    },
+    {
+      "id": "b8e377a3-7e7a-482b-82c0-0a18d512309f",
+      "name": "Simba",
+      "breed": "Persian",
+      "date_of_birth": "2018-01-12",
+      "desexed": true,
+      "gender": "Male",
+      "microchip_number": 6789012345,
+      "vaccinated": true,
+      "wormed": false,
+      "description": "Simba was rescued from a hoarding situation where he lived among many other cats. Despite his difficult past, he's incredibly gentle and loves being pampered. Simba has luxurious fur that requires regular grooming.",
+      "image_url": "https://cdn2.thecatapi.com/images/9pj.jpg"
+    },
+    {
+      "id": "7ef478dc-1dc2-4ff3-8778-2718623b8ecb",
+      "name": "Gizmo",
+      "breed": "Ragdoll",
+      "date_of_birth": "2020-06-30",
+      "desexed": true,
+      "gender": "Male",
+      "microchip_number": 7890123456,
+      "vaccinated": false,
+      "wormed": true,
+      "description": "Gizmo was found abandoned in a cardboard box on the side of the road. He's a laid-back and affectionate cat who enjoys lounging on laps and receiving belly rubs. Gizmo's stunning blue eyes are mesmerizing.",
+      "image_url": "https://cdn2.thecatapi.com/images/POPfuPq8t.jpg"
+    },
+    {
+      "id": "63e09511-0f95-4e58-98e2-43d4a9f0c52e",
+      "name": "Milo",
+      "breed": "Scottish Fold",
+      "date_of_birth": "2019-09-18",
+      "desexed": false,
+      "gender": "Male",
+      "microchip_number": 8901234567,
+      "vaccinated": true,
+      "wormed": true,
+      "description": "Milo was found as a stray kitten hiding under a car. He's a playful and curious cat who loves exploring his surroundings. Milo also has an adorable habit of folding his ears, giving him an irresistible charm.",
+      "image_url": "https://cdn2.thecatapi.com/images/3kn.jpg"
+    },
+    {
+      "id": "87654321-1234-5678-1234-567812345678",
+      "name": "Socks",
+      "breed": "Tabby",
+      "date_of_birth": "2020-03-10",
+      "desexed": true,
+      "gender": "Female",
+      "microchip_number": 98765432,
+      "vaccinated": true,
+      "wormed": true,
+      "description": "Socks was rescued from a local shelter. She's a playful and energetic cat who loves chasing after toy mice and climbing on cat trees. Socks also enjoys curling up on laps and purring contently.",
+      "image_url": "https://cdn2.thecatapi.com/images/1ki.jpg"
+    },
+    {
+      "id": "56781234-5678-1234-5678-123456789012",
+      "name": "Whiskers",
+      "breed": "Mixed",
+      "date_of_birth": "2018-07-20",
+      "desexed": true,
+      "gender": "Male",
+      "microchip_number": 34567890,
+      "vaccinated": true,
+      "wormed": false,
+      "description": "Whiskers was found abandoned in a box outside a grocery store. He's a talkative and affectionate cat who loves being the center of attention. Whiskers enjoys lounging in sunny spots and bird-watching from the window.",
+      "image_url": "https://cdn2.thecatapi.com/images/d6n.jpg"
+    }
+  ],
+  "adopters": [
+    {
+      "id": "1",
+      "first_name": "John",
+      "last_name": "Doe",
+      "age": 35,
+      "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "country": "USA",
+        "zip_code": "12345"
+      },
+      "email": "johndoe@example.com",
+      "phone_number": "+1234567890",
+      "petId": "1"
+    },
+    {
+      "id": "e7af5d7b-16d1-4c48-87fd-1f3649c3cf9b",
+      "first_name": "Alice",
+      "last_name": "Smith",
+      "age": 28,
+      "address": {
+        "street": "456 Elm St",
+        "city": "Smallville",
+        "country": "Canada",
+        "zip_code": "A1B2C3"
+      },
+      "email": "alice.smith@example.com",
+      "phone_number": "+1987654321",
+      "pet_id": "af4f94c3-eeb2-4d7c-bf70-b07f5e70b72e"
+    },
+    {
+      "id": "f83d1261-6374-41a7-9685-80f9460b47f1",
+      "first_name": "Emily",
+      "last_name": "Johnson",
+      "age": 42,
+      "address": {
+        "street": "789 Oak St",
+        "city": "Metro City",
+        "country": "Australia",
+        "zip_code": "3000"
+      },
+      "email": "emily.johnson@example.com",
+      "phone_number": "+61123456789",
+      "pet_id": "aef8a0fc-1d6c-44f5-9884-497dc50aa670"
+    },
+    {
+      "id": "c28f1779-7948-4dc5-ae13-4bcfcb48b901",
+      "first_name": "David",
+      "last_name": "Brown",
+      "age": 50,
+      "address": {
+        "street": "321 Maple Ave",
+        "city": "Suburbia",
+        "country": "UK",
+        "zip_code": "SW1A 1AA"
+      },
+      "email": "david.brown@example.com",
+      "phone_number": "+447700900000",
+      "pet_id": "56781234-5678-1234-5678-123456789012"
+    },
+    {
+      "id": "9d631aba-86d3-4f95-9fd5-8d4a79986564",
+      "first_name": "Sarah",
+      "last_name": "Taylor",
+      "age": 32,
+      "address": {
+        "street": "555 Pine St",
+        "city": "Green Hills",
+        "country": "USA",
+        "zip_code": "54321"
+      },
+      "email": "sarah.taylor@example.com",
+      "phone_number": "+11234567890",
+      "pet_id": "87654321-1234-5678-1234-567812345678"
+    },
+    {
+      "id": "c6352bb2-81a1-4953-9cf4-fc547320db58",
+      "first_name": "Michael",
+      "last_name": "White",
+      "age": 37,
+      "address": {
+        "street": "777 Cedar Rd",
+        "city": "Rural Village",
+        "country": "Canada",
+        "zip_code": "X1X2X3"
+      },
+      "email": "michael.white@example.com",
+      "phone_number": "+16135551111",
+      "pet_id": "b018cf60-4b60-4a25-817a-7c4c12682c3f"
+    },
+    {
+      "id": "a21a87a3-9790-44fb-8d1c-224df0053b3c",
+      "first_name": "Jessica",
+      "last_name": "Martinez",
+      "age": 25,
+      "address": {
+        "street": "999 Birch Blvd",
+        "city": "Cityscape",
+        "country": "Australia",
+        "zip_code": "2000"
+      },
+      "email": "jessica.martinez@example.com",
+      "phone_number": "+61234567890",
+      "pet_id": "63e09511-0f95-4e58-98e2-43d4a9f0c52e"
+    },
+    {
+      "id": "d0178d1e-7b58-4c2a-854f-0554b827081b",
+      "first_name": "Christopher",
+      "last_name": "Jones",
+      "age": 45,
+      "address": {
+        "street": "222 Aspen Ave",
+        "city": "Mountain View",
+        "country": "USA",
+        "zip_code": "98765"
+      },
+      "email": "chris.jones@example.com",
+      "phone_number": "+19876543210",
+      "pet_id": "7ef478dc-1dc2-4ff3-8778-2718623b8ecb"
+    },
+    {
+      "id": "2f82cb5d-bb16-4c3f-a4fc-c5ac1f123a02",
+      "first_name": "Emma",
+      "last_name": "Garcia",
+      "age": 30,
+      "address": {
+        "street": "444 Willow Ln",
+        "city": "River City",
+        "country": "Canada",
+        "zip_code": "Y1Y2Y3"
+      },
+      "email": "emma.garcia@example.com",
+      "phone_number": "+14165557777",
+      "pet_id": "b8e377a3-7e7a-482b-82c0-0a18d512309f"
+    },
+    {
+      "id": "4b5e7a23-c56e-4950-9e08-155cbe4daecb",
+      "first_name": "Daniel",
+      "last_name": "Rodriguez",
+      "age": 39,
+      "address": {
+        "street": "666 Oakwood Dr",
+        "city": "Forest Hills",
+        "country": "UK",
+        "zip_code": "EC1A 1BB"
+      },
+      "email": "daniel.rodriguez@example.com",
+      "phone_number": "+447700123456",
+      "pet_id": "e64f01fc-3c2e-4b14-a147-2a0e61e2f3d9"
+    }
+  ]
+}
