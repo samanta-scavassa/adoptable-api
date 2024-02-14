@@ -253,20 +253,6 @@
       "category": "dog"
     },
     {
-      "id": "6a0c4faa-76f5-423d-b050-4e1f52553f77",
-      "name": "Buddy",
-      "breed": "terrier",
-      "date_of_birth": "2015-07-12",
-      "desexed": true,
-      "gender": "Male",
-      "microchip_number": 7562934032,
-      "vaccinated": true,
-      "wormed": false,
-      "description": "This sweet pup is looking for a forever home where they will be cherished and cared for. They have the cutest habit of tilting their head when they're curious about something.",
-      "image_url": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_1550.jpg",
-      "category": "dog"
-    },
-    {
       "id": "52e19163-ec0a-4598-b812-6e2db072a2f8",
       "name": "Max",
       "breed": "bulldog",
@@ -402,7 +388,7 @@
       "vaccinated": true,
       "wormed": false,
       "description": "Whiskers was found as a stray kitten wandering the streets alone. Despite his rough start, he has blossomed into a playful and affectionate cat. He loves chasing after toys and curling up in warm spots for naps.",
-      "image_url": "https://cdn2.thecatapi.com/images/d35.jpg",
+      "image_url": "https://cdn2.thecatapi.com/images/acd.jpg",
       "category": "cat"
     },
     {
@@ -518,7 +504,7 @@
       "category": "cat"
     },
     {
-      "id": "56781234-5678-1234-5678-123456789012",
+      "id": "911271c9-76b9-4f3d-93b4-162463555e44",
       "name": "Whiskers",
       "breed": "Mixed",
       "date_of_birth": "2018-07-20",
@@ -546,7 +532,7 @@
       "category": "cat"
     },
     {
-      "id": "87654321-1234-5678-1234-567812345678",
+      "id": "15920d7a-0f19-4c3f-bfd8-9a8d2fe65ca7",
       "name": "Fiora",
       "breed": "Mixed",
       "date_of_birth": "2020-03-10",
@@ -602,7 +588,7 @@
       "category": "cat"
     },
     {
-      "id": "34567890-1234-5678-9012-345678901234",
+      "id": "b4f15013-4030-41ee-bcc7-9040485c4387",
       "name": "Tiger",
       "breed": "Bengal",
       "date_of_birth": "2019-08-12",
@@ -630,7 +616,7 @@
       "category": "cat"
     },
     {
-      "id": "56789012-3456-7890-1234-567890123456",
+      "id": "29814e7b-d5e7-4e65-b7e2-b56e4e9be587",
       "name": "Max",
       "breed": "Mixed",
       "date_of_birth": "2017-03-08",
@@ -644,7 +630,7 @@
       "category": "cat"
     },
     {
-      "id": "67890123-4567-8901-2345-678901234567",
+      "id": "a0899b38-8d48-41a5-a96c-ba7e018f239e",
       "name": "Oliver",
       "breed": "Siberian",
       "date_of_birth": "2018-10-30",
@@ -686,7 +672,7 @@
       "category": "cat"
     },
     {
-      "id": "90123456-7890-1234-5678-901234567890",
+      "id": "7c8a4473-a703-46de-8767-12a864507749",
       "name": "Luna",
       "breed": "Mixed",
       "date_of_birth": "2018-12-03",
@@ -700,7 +686,7 @@
       "category": "cat"
     },
     {
-      "id": "23456789-0123-4567-8901-234567890123",
+      "id": "20b2f614-07b0-41bc-81fe-fb1521096efd",
       "name": "Darius",
       "breed": "British Shorthair",
       "date_of_birth": "2019-07-28",
@@ -714,7 +700,7 @@
       "category": "cat"
     },
     {
-      "id": "34567890-1234-5678-9012-345678901234",
+      "id": "0be45bc1-553d-41ac-94b1-4ef0767829d7",
       "name": "Lucy",
       "breed": "Mixed",
       "date_of_birth": "2020-06-20",
@@ -728,7 +714,7 @@
       "category": "cat"
     },
     {
-      "id": "45678901-2345-6789-0123-456789012345",
+      "id": "babd1142-e3f4-4d36-b2ab-d946765476a9",
       "name": "Leo",
       "breed": "Norwegian Forest",
       "date_of_birth": "2018-11-10",
@@ -1892,6 +1878,13 @@
       "email": "avery.morgan@example.com",
       "phone_number": "+447700900000",
       "petId": "6a0c4faa-76f5-423d-b050-4e1f52553f77"
+    }
+  ],
+  "messages": [
+    {
+      "id":"a122d62a-3782-4ba8-8414-b5985d33ce73",
+      "message":"I would love to adopt this cat!",
+      "adopterId":"a122d62a-3782-4ba8-8414-b5985d33ce73"
     }
   ]
 }
